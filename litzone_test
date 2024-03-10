@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>志愿者团队网站</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">首页</a></li>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="#team">团队成员</a></li>
+                <li><a href="#activities">活动记录</a></li>
+                <li><a href="#contact">联系我们</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>欢迎来到我们的志愿者团队网站</h1>
+            <p>我们是一群热心公益事业的志愿者,致力于帮助有需要的人。</p>
+        </section>
+
+        <section id="about">
+            <h2>关于我们</h2>
+            <p>我们的团队成立于2020年,由一群热爱公益事业的年轻人组成。我们的愿景是通过自己的努力,为社会做出一份贡献。</p>
+        </section>
+
+        <section id="team">
+            <h2>团队成员</h2>
+            <!-- 在这里添加团队成员信息 -->
+        </section>
+
+        <section id="activities">
+            <h2>活动记录</h2>
+            <!-- 在这里添加过去的活动信息 -->
+        </section>
+
+        <section id="contact">
+            <h2>联系我们</h2>
+            <p>如果您有任何问题或建议,请随时联系我们:</p>
+            <ul>
+                <li>电子邮件: info@volunteertteam.org</li>
+                <li>电话: 123-456-7890</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 志愿者团队. 版权所有.</p>
+    </footer>
+</body>
+</html>
